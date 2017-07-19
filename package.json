@@ -1,0 +1,26 @@
+{
+  "name": "joharchan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JoharChen",
+  "license": "ISC",
+  "dependencies": {
+    "sinon": "^2.3.8"
+  },
+  "devDependencies": {},
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoharChen/guessNumber.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JoharChen/guessNumber/issues"
+  },
+  "homepage": "https://github.com/JoharChen/guessNumber#readme",
+  "description": "readline "
+}
